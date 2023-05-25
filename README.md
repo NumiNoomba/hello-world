@@ -1,3 +1,7 @@
-# hello-world
-michael erhmentraut
-// i am a demon xD
+#include <stdio.h>
+
+
+int main(){
+  printf("walter white")
+  return 0;
+}
